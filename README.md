@@ -1,6 +1,6 @@
 - Hi, I’m @Pranjal095
 - I’m interested in software development
-- I’m currently learning web development, machine learning and cybersecurity
+- I’m currently learning web / app development, machine learning and cybersecurity
 - I’d be happy to collaborate on projects on any of the above topics
 
 <!---
